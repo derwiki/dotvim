@@ -7,3 +7,9 @@
 [submodule "bundle/vimrails"]
 	path = bundle/vimrails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = https://github.com/wzzrd/vim-matchit.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git://github.com/scrooloose/syntastic.git

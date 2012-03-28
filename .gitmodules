@@ -16,3 +16,6 @@
 [submodule "bundle/gist"]
 	path = bundle/gist
 	url = git://github.com/vim-scripts/Gist.vim.git
+[submodule "/home/adam/.vim/bundle/gundo"]
+	path = /home/adam/.vim/bundle/gundo
+	url = http://github.com/sjl/gundo.vim.git
